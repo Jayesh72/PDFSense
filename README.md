@@ -1,4 +1,4 @@
-# Adobe Finale - AI-Powered Research Companion
+# PDFSense - AI-Powered Research Companion
 
 A comprehensive web application that transforms PDF research documents into interactive, AI-enhanced learning experiences. Adobe Finale combines document analysis, AI insights, and audio generation to create an intelligent research companion.
 
